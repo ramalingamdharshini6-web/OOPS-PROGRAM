@@ -48,3 +48,12 @@ public class Shapes {
         c.printArea();
     }
 }
+
+
+OUTPUT:
+D:\JavaPrograms>java Shapes Enter values :
+7
+8
+Area of Rectangle is 56.0 
+Area of Triangle is 28.0 
+Area of Circle is 154.0
