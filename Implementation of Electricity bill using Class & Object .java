@@ -58,3 +58,31 @@ class Consumer {
         System.out.println("\n\t Total bill = Rs " + tbill);
     }
 }
+
+
+
+
+
+
+PS D:\OOPS PROGRAM>  & 'C:\Program Files\Java\jdk-17\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\DHARSHINI\AppData\Roaming\Code\User\workspaceStorage\595a2dd389373e288e0cfb6f8a4b53b3\redhat.java\jdt_ws\OOPS PROGRAM_a49ee820\bin' 'ElecBill'
+
+         Enter Consumer number =
+102
+
+         Enter Consumer name =
+Raghav
+
+         Enter the type of connection =
+domestic
+
+         Enter pre_month reading = 
+150
+
+         Enter current_month reading = 
+800
+
+         Customer name = Raghav
+
+         Total units = 650.0
+
+         Total bill = Rs 3900.0
